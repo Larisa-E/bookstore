@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\forms\\bookmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\forms\\bookmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|c:\\xampp\\htdocs\\bookstore\\bookstore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5626A6EA-54A6-494F-976E-A4A7BC7D5EEA}|bookstore\\bookstore.csproj|solutionrelative:bookstore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "bookstore\\Forms\\CustomerForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\CustomerForm.cs",
+              "RelativeToolTip": "bookstore\\Forms\\CustomerForm.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwHoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:18:28.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManagementForm.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\BookManagementForm.cs",
+              "RelativeDocumentMoniker": "bookstore\\Forms\\BookManagementForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\BookManagementForm.cs",
+              "RelativeToolTip": "bookstore\\Forms\\BookManagementForm.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAuwM4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:17:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "bookstore\\DatabaseHelper.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\DatabaseHelper.cs",
+              "RelativeToolTip": "bookstore\\DatabaseHelper.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:11:18.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "bookstore\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\MainForm.cs",
+              "RelativeToolTip": "bookstore\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:18:38.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\OrderForm.cs",
+              "RelativeDocumentMoniker": "bookstore\\Forms\\OrderForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Forms\\OrderForm.cs",
+              "RelativeToolTip": "bookstore\\Forms\\OrderForm.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAwwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:20:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Prompt.cs",
+              "RelativeDocumentMoniker": "bookstore\\Prompt.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Prompt.cs",
+              "RelativeToolTip": "bookstore\\Prompt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:10:57.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Program.cs",
+              "RelativeDocumentMoniker": "bookstore\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\Program.cs",
+              "RelativeToolTip": "bookstore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:10:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\bookstore\\bookstore\\App.config",
+              "RelativeDocumentMoniker": "bookstore\\App.config",
+              "ToolTip": "C:\\xampp\\htdocs\\bookstore\\bookstore\\App.config",
+              "RelativeToolTip": "bookstore\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-26T08:03:35.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
